@@ -1,0 +1,180 @@
+{
+    "book_id": 1,
+    "title": "The Book Thief",
+    "category": "Children's Book",
+    "price": 7.50,
+    "authors": [
+        {
+            "first_name": "Markus",
+            "last_name": "Zusak",
+            "country": "au",
+            "website": "http://www.randomhouse.com/features/markuszusak"
+        }
+    ],
+    "publishers": [
+        {
+            "publish_date": {
+                "$date": 1189468800000
+            },
+            "name": "Alfred A. Knopf, Inc.",
+            "country": "us",
+            "website": "knopf.knopfdoubleday.com"
+        }
+    ]
+}
+
+{
+    "book_id": 2,
+    "title": "I Am the Messenger",
+    "category": "Children's Book",
+    "price": 6.20,
+    "authors": [
+        {
+            "first_name": "Markus",
+            "last_name": "Zusak",
+            "country": "au",
+            "website": "http://www.randomhouse.com/features/markuszusak"
+        }
+    ],
+    "publishers": [
+        {
+            "publish_date": {
+                "$date": 1147132800000
+            },
+            "name": "Alfred A. Knopf, Inc.",
+            "country": "us",
+            "website": "knopf.knopfdoubleday.com"
+        }
+    ]
+}
+
+{
+    "book_id": 3,
+    "title": "Words of Radiance",
+    "category": "Fiction",
+    "price": 17.60,
+    "authors": [
+        {
+            "first_name": "Brandon",
+            "last_name": "Sanderson",
+            "country": "us",
+            "website": "http://brandonsanderson.com"
+        }
+    ],
+    "publishers": [
+        {
+            "publish_date": {
+                "$date": 1393891200000
+            },
+            "name": "Victor Gollancz Ltd",
+            "country": "uk",
+            "website": "www.gollancz.co.uk"
+        }
+    ]
+}
+
+{
+    "book_id": 4,
+    "title": "A Memory of Light",
+    "category": "Fiction",
+    "price": 6.29,
+    "authors": [
+        {
+            "first_name": "Robert",
+            "last_name": "Jordan",
+            "country": "us",
+            "website": "https://us.macmillan.com/author/robertjordan/"
+        },
+        {
+            "first_name": "Brandon",
+            "last_name": "Sanderson",
+            "country": "us",
+            "website": "http://brandonsanderson.com"
+        }
+    ],
+    "publishers": [
+        {
+            "publish_date": {
+                "$date": 1357603200000
+            },
+            "name": "Victor Gollancz Ltd",
+            "country": "uk",
+            "website": "www.gollancz.co.uk"
+        }
+    ]
+}
+
+{
+    "book_id": 5,
+    "title": "Steelheart",
+    "category": "Fiction",
+    "price": 11.07,
+    "authors": [
+        {
+            "first_name": "Brandon",
+            "last_name": "Sanderson",
+            "country": "us",
+            "website": "http://brandonsanderson.com"
+        }
+    ],
+    "publishers": [
+        {
+            "publish_date": {
+                "$date": 1379980800000
+            },
+            "name": "Victor Gollancz Ltd",
+            "country": "uk",
+            "website": "www.gollancz.co.uk"
+        }
+    ]
+}
+
+{
+    "book_id": 6,
+    "title": "Duty: Memoirs of a Secretary at War",
+    "category": "History",
+    "price": 20.99,
+    "authors": [
+        {
+            "first_name": "Robert",
+            "last_name": "Gates",
+            "country": "us",
+            "website": ""
+        }
+    ],
+    "publishers": [
+        {
+            "publish_date": {
+                "$date": 1389657600000
+            },
+            "name": "Alfred A. Knopf, Inc.",
+            "country": "us",
+            "website": "knopf.knopfdoubleday.com"
+        }
+    ]
+}
+
+{
+    "book_id": 7,
+    "title": "From the Shadows",
+    "category": "History",
+    "price": 13.70,
+    "authors": [
+        {
+            "first_name": "Robert",
+            "last_name": "Gates",
+            "country": "us",
+            "website": ""
+        }
+    ],
+    "publishers": [
+        {
+            "publish_date": {
+                "$date": 1168300800000
+            },
+            "name": "Alfred A. Knopf, Inc.",
+            "country": "us",
+            "website": "knopf.knopfdoubleday.com"
+        }
+    ]
+}
