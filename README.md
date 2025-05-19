@@ -1,5 +1,4 @@
-# COMPX575- Task Four
-Due on **Friday the 21st March at midday**. 
+# Database exercise
 
 # Task Goal
 Gain experience using MySQL and MongoDB.
@@ -195,14 +194,3 @@ Write the following queries:
 23. Find the names of all authors who have written more than one book.
 24. Find all books published in or after the year 2010.
 25. Find all books with a price less than $10, sorted by price in ascending order.
-
-
-
-## Grading
-This task is worth as much as 5% of your final grade and is marked out of 5.
-* Part One is worth 2.5 mark.
-* Part Two is worth 2.5 mark.
-
-
-## Submission
-On top of the commits to your Git repository, please upload your source files to moodle.
